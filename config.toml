@@ -1,7 +1,7 @@
 # baseURL = "https://your_domain.com/"
 languageCode = "en"
 defaultContentLanguage = "en"
-publishDir = "dist"
+publishDir = "docs"
 
 title = "Fractiunate"
 copyright = "© Fractiunate 2025"

@@ -19,7 +19,7 @@ disableKinds = ["taxonomy", "term"]
   # image = "img/author.jpg"  # path relative to static directory
 
   links = [
-    { email = "mailto:contact@fractiunate.de" },
+    { email = "mailto:mail@fractiunate.de" },
     { link = "https://fractiunate.me/" },
     { github = "https://github.com/fractiunate" },
     { linkedin = "https://www.linkedin.com/in/fractiunate/" },
